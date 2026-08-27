@@ -1,0 +1,11 @@
+evaluation_stage,category,incumbent_mae_w,experiment_4_mae_w,mae_change_w,mae_change_pct,incumbent_sae_pct,experiment_4_sae_pct,sae_change_pct_points,incumbent_f1_score,experiment_4_f1_score,f1_change
+source_temporal_test,kettle,10.1395,9.8452,-0.2942,-2.9018,34.4381,28.924,-5.5141,0.8102,0.8147,0.0045
+source_temporal_test,cold_appliance,22.3404,22.3404,0.0,0.0,8.3261,8.3261,0.0,0.7707,0.7707,0.0
+source_temporal_test,dishwasher,15.5849,15.5849,0.0,0.0,23.752,23.752,0.0,0.8597,0.8597,0.0
+source_temporal_test,laundry_appliance,16.5682,16.7616,0.1934,1.1674,26.9763,26.911,-0.0653,0.4952,0.4982,0.003
+source_temporal_test,microwave,4.9604,4.9481,-0.0123,-0.2485,36.1722,32.5549,-3.6172,0.6492,0.6525,0.0033
+unseen_house_5,kettle,35.4484,31.862,-3.5864,-10.1172,226.5782,176.5969,-49.9814,0.341,0.3584,0.0174
+unseen_house_5,cold_appliance,54.7161,54.7161,0.0,0.0,65.8699,65.8699,0.0,0.5446,0.5446,0.0
+unseen_house_5,dishwasher,26.2592,26.2592,0.0,0.0,85.4526,85.4526,0.0,0.571,0.571,0.0
+unseen_house_5,laundry_appliance,55.6805,55.693,0.0124,0.0224,17.8084,10.5131,-7.2953,0.4554,0.4936,0.0383
+unseen_house_5,microwave,62.8053,60.8788,-1.9265,-3.0675,56.273,60.6457,4.3727,0.0296,0.03,0.0004

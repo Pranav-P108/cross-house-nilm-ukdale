@@ -1,0 +1,5 @@
+evaluation_stage,variant,mean_mae_w,median_mae_w,mean_sae_pct,median_sae_pct,mean_f1_score,median_f1_score
+source_temporal_test,Experiment 4,13.896,15.5849,24.0936,26.911,0.7191,0.7707
+source_temporal_test,Incumbent,13.9186,15.5849,25.9329,26.9763,0.717,0.7707
+unseen_house_5,Experiment 4,45.8818,54.7161,79.8156,65.8699,0.3995,0.4936
+unseen_house_5,Incumbent,46.9819,54.7161,90.3964,65.8699,0.3883,0.4554
