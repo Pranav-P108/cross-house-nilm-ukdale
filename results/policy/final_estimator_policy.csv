@@ -1,0 +1,6 @@
+category,source_experiment,model_family,selected_model,probability_threshold,power_multiplier
+cold_appliance,Experiment 1,Classical ML,Random Forest,,1.0
+dishwasher,Experiment 2,Two-stage Hurdle Model,Classifier + Active-Power Regressor,0.95,1.0
+kettle,Experiment 1,Classical ML,Decision Tree,,1.0
+laundry_appliance,Experiment 2,Two-stage Hurdle Model,Classifier + Active-Power Regressor,0.75,1.25
+microwave,Experiment 2,Two-stage Hurdle Model,Classifier + Active-Power Regressor,0.95,0.75
